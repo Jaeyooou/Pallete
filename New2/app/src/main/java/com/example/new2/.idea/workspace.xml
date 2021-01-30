@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bf4ab17-8296-4955-9dc8-2cf3166075f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1htsIpw9esJLka6cHZs7QEysXn7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Gradle./Users/ahnjaehyun/Downloads/New2/New2/app/src/main/java/com/example/new2">
+    <configuration name="new2" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ahnjaehyun/Downloads/New2/New2/app/src/main/java/com/example/new2" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.new2" />
+      <item itemvalue="Gradle./Users/ahnjaehyun/Downloads/New2/New2/app/src/main/java/com/example/new2" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bf4ab17-8296-4955-9dc8-2cf3166075f0" name="Default Changelist" comment="" />
+      <created>1600841646224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600841646224</updated>
+      <workItem from="1607877957368" duration="545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="237" key="#Project_Structure" timestamp="1600847650758">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="496" y="237" key="#Project_Structure/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847650758" />
+    <state x="589" y="211" key="#Unnamed" timestamp="1600847308006">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="589" y="211" key="#Unnamed/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847308006" />
+    <state x="397" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600847673927">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="397" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847673927" />
+    <state x="1192" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600841734702">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="1192" y="467" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600841734702" />
+    <state x="584" y="306" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600841776482">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="584" y="306" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600841776482" />
+    <state x="589" y="249" key="#new2" timestamp="1600847435519">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="589" y="249" key="#new2/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847435519" />
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom" timestamp="1600847676377">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1771" height="303" key="GridCell.Tab.0.bottom/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847676377" />
+    <state width="1771" height="303" key="GridCell.Tab.0.center" timestamp="1600847676376">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1771" height="303" key="GridCell.Tab.0.center/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847676376" />
+    <state width="1771" height="303" key="GridCell.Tab.0.left" timestamp="1600847676376">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1771" height="303" key="GridCell.Tab.0.left/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847676376" />
+    <state width="1771" height="303" key="GridCell.Tab.0.right" timestamp="1600847676377">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1771" height="303" key="GridCell.Tab.0.right/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847676377" />
+    <state x="384" y="153" key="SettingsEditor" timestamp="1600847598010">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="384" y="153" key="SettingsEditor/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847598010" />
+    <state x="100" y="123" width="1592" height="897" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600842050350">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="100" y="123" width="1592" height="897" key="com.android.tools.idea.avdmanager.AvdListDialog/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600842050350" />
+    <state x="1014" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1607877958409">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="1014" y="404" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1607877958409" />
+    <state x="1014" y="404" key="com.intellij.ide.util.TipDialog/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600842543944" />
+    <state x="561" y="266" key="run.anything.popup" timestamp="1600847443365">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="266" key="run.anything.popup/1792.23.1366.1001/0.23.1792.1097@0.23.1792.1097" timestamp="1600847443365" />
+  </component>
+</project>

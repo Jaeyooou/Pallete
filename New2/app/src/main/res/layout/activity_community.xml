@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/group_99"
+    tools:context=".CommunityActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="165dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bt_prev"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/left_arrow" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="261dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:text="           " />
+
+        <Button
+            android:id="@+id/bt_home"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:background="@drawable/home" />
+        >
+    </LinearLayout>
+
+    <Button
+        android:layout_marginRight="8dp"
+        android:id="@+id/c_button"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:layout_gravity="right"
+        android:background="@drawable/writting" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/c_recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none"
+        android:fillViewport="true"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+
+</LinearLayout>
