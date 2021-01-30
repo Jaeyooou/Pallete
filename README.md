@@ -30,9 +30,9 @@ Note: This application requires a smartphone with internet connection with a4 pa
 |Name|Role|
 |---|---|
 |<a href="https://github.com/jangziehn">Jaehoon Jang</a>|📊 Main Logic, Research|
-|<a href="https://github.com/">Ilhwan Lee</a>|🛠 Main Logic, Android|
-|<a href="https://github.com/">Sehwan Park</a>|📄 Crawling ,Android|
-|<a href="https://github.com/">RackHyun Choi</a>|🖌 UI/UX ,Interface|
+|<a href="https://github.com/pppp0722">Ilhwan Lee</a>|🛠 Main Logic, Android|
+|<a href="https://github.com/SeHwan96">Sehwan Park</a>|📄 Crawling ,Android|
+|<a href="https://github.com/fkrgus222">RackHyun Choi</a>|🖌 UI/UX ,Interface|
 |<a href="https://github.com/Jaeyooou">Jaehyun Ahn</a>|📂 DB, Backend|
 
 
