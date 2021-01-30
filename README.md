@@ -29,7 +29,7 @@ Note: This application requires a smartphone with internet connection with a4 pa
 
 |Name|Role|
 |---|---|
-|<a href="https://github.com/">Jaehoon Jang</a>|📊 Main Logic, Research|
+|<a href="https://github.com/jangziehn">Jaehoon Jang</a>|📊 Main Logic, Research|
 |<a href="https://github.com/">Ilhwan Lee</a>|🛠 Main Logic, Android|
 |<a href="https://github.com/">Sehwan Park</a>|📄 Crawling ,Android|
 |<a href="https://github.com/">RackHyun Choi</a>|🖌 UI/UX ,Interface|
