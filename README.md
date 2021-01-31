@@ -29,18 +29,7 @@ Note: This application requires a smartphone with internet connection with a4 pa
 4. Click on the recommended cosmetics to go to the purchase page.
 5. On the Community menu, you can share information with other users.
 
-## AUTHORS
-
-|Name|Role|
-|---|---|
-|<a href="https://github.com/jangziehn">Jaehoon Jang</a>|📊 Main Logic, Research|
-|<a href="https://github.com/pppp0722">Ilhwan Lee</a>|🛠 Main Logic, Android|
-|<a href="https://github.com/SeHwan96">Sehwan Park</a>|📄 Crawling ,Android|
-|<a href="https://github.com/fkrgus222">RackHyun Choi</a>|🖌 UI/UX ,Interface|
-|<a href="https://github.com/Jaeyooou">Jaehyun Ahn</a>|📂 DB, Backend|
-
 ## Info
-
 <table style="text-align:center;">
     <tr>
         <th>Frontend</th>
@@ -50,18 +39,18 @@ Note: This application requires a smartphone with internet connection with a4 pa
     </tr>
     <tr>
         <td>
-        <img src="./image/androidstudio.jpg" width=100 height=100>&nbsp;
-        <img src="./image/xd.jpg" width=100 height=100>   
+        <img src="./image/androidstudio.png" width=100 height=100>&nbsp;
+        <img src="./image/xd.png" width=100 height=100>   
         </td>
         <td>
-        <img src="./reference_img/volley.png" width=100 height=100>&nbsp;
-        <img src="./reference_img/php.png" width=100 height=100>
+        <img src="./image/volley.png" width=100 height=100>&nbsp;
+        <img src="./image/php.png" width=100 height=100>
         </td>
         <td> 
-        <img src="./reference_img/jsoup.jpg" width=100 height=100>
+        <img src="./image/jsoup.jpg" width=100 height=100>
         </td>
         <td>
-        <img src="./reference_img/mysql.png" width=100 height=100>
+        <img src="./image/mysql.png" width=100 height=100>
         </td>
     </tr>
     <tr>
@@ -79,4 +68,13 @@ Note: This application requires a smartphone with internet connection with a4 pa
         </td>
     </tr>
 </table>
+
+## AUTHORS
+|Name|Role|
+|---|---|
+|<a href="https://github.com/jangziehn">Jaehoon Jang</a>|📊 Main Logic, Research|
+|<a href="https://github.com/pppp0722">Ilhwan Lee</a>|🛠 Main Logic, Android|
+|<a href="https://github.com/SeHwan96">Sehwan Park</a>|📄 Crawling ,Android|
+|<a href="https://github.com/fkrgus222">RackHyun Choi</a>|🖌 UI/UX ,Interface|
+|<a href="https://github.com/Jaeyooou">Jaehyun Ahn</a>|📂 DB, Backend|
 
