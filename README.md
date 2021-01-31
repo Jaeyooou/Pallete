@@ -1,6 +1,10 @@
 # Pallete
 ## Personal Color Diagnosis with AI and Recommending Cosmetics
 ### 2020 Sejong University 창의학기제 프로젝트 3분과 Team 5H
+<img src="./image/1.png">
+
+![](https://img.youtube.com/vi/E-fQqp6jfbw/maxresdefault.jpg)
+(https://www.youtube.com/watch?v=E-fQqp6jfbw/)
 
 ## README
 Note: This application is based on the Pixel 3XL, API30 version.
@@ -35,6 +39,44 @@ Note: This application requires a smartphone with internet connection with a4 pa
 |<a href="https://github.com/fkrgus222">RackHyun Choi</a>|🖌 UI/UX ,Interface|
 |<a href="https://github.com/Jaeyooou">Jaehyun Ahn</a>|📂 DB, Backend|
 
+## Info
 
-https://youtu.be/E-fQqp6jfbw 
-<iframe width="640" height="360" src="https://youtu.be/E-fQqp6jfbw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<table style="text-align:center;">
+    <tr>
+        <th>Frontend</th>
+        <th>Backend</th>
+        <th>Crawling</th>
+        <th>Database</th>
+    </tr>
+    <tr>
+        <td>
+        <img src="./image/androidstudio.jpg" width=100 height=100>&nbsp;
+        <img src="./image/xd.jpg" width=100 height=100>   
+        </td>
+        <td>
+        <img src="./reference_img/volley.png" width=100 height=100>&nbsp;
+        <img src="./reference_img/php.png" width=100 height=100>
+        </td>
+        <td> 
+        <img src="./reference_img/jsoup.jpg" width=100 height=100>
+        </td>
+        <td>
+        <img src="./reference_img/mysql.png" width=100 height=100>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        AndroidStudio,AdobeXD
+        </td>
+        <td>
+        Volley,PHP
+        </td>
+        <td>
+        JSoup
+        </td>
+        <td>
+        MySQL
+        </td>
+    </tr>
+</table>
+
