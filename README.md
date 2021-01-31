@@ -47,7 +47,7 @@ Note: This application requires a smartphone with internet connection with a4 pa
         <img src="./image/php.png" width=100 height=100>
         </td>
         <td> 
-        <img src="./image/jsoup.jpg" width=100 height=100>
+        <img src="./image/jsoup.png" width=100 height=100>
         </td>
         <td>
         <img src="./image/mysql.png" width=100 height=100>
