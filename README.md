@@ -4,7 +4,7 @@
 <img src="./image/1.png">
 
 ![](https://img.youtube.com/vi/E-fQqp6jfbw/maxresdefault.jpg)
-(https://www.youtube.com/watch?v=E-fQqp6jfbw/)
+[Watch Youtube](https://www.youtube.com/watch?v=aIS0EnDxnnE)
 
 ## README
 Note: This application is based on the Pixel 3XL, API30 version.
@@ -72,7 +72,7 @@ Note: This application requires a smartphone with internet connection with a4 pa
 ## AUTHORS
 |Name|Role|
 |---|---|
-|<a href="https://github.com/jangziehn">Jaehoon Jang</a>|📊 Main Logic, Research|
+|<a href="https://github.com/trumanfromkorea">Jaehoon Jang</a>|📊 Main Logic, Research|
 |<a href="https://github.com/pppp0722">Ilhwan Lee</a>|🛠 Main Logic, Android|
 |<a href="https://github.com/SeHwan96">Sehwan Park</a>|📄 Crawling ,Android|
 |<a href="https://github.com/fkrgus222">RackHyun Choi</a>|🖌 UI/UX ,Interface|
